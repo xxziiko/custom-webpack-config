@@ -1,0 +1,16 @@
+# Node.js 관련 파일 & 폴더 무시
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+.pnp
+.pnp.js
+
+
+
+# IDE 및 OS 관련 파일 무시
+.vscode/
+.idea/
+*.swp
